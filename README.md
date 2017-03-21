@@ -9,3 +9,4 @@ The following animation shows the 2D implementation shows both the active points
 
 ![Poisson Disk Sampling Animation 2D](PoissonDiskSampling/animation_2D.gif)
 
+An implementation in JavaScript with [p5js](https://p5js.org/) can be found in [Daniel Shiffman](https://github.com/shiffman)'s [example](https://github.com/CodingTrain/Rainbow-Code/tree/master/challenges/CC_33_poisson_disc).
